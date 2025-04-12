@@ -5,6 +5,8 @@ We're excited to share our **Motorola Type II** trunking system with you: operat
 
 The trunking system is typically installed in/on **T4**, a retired fire truck 🚒 that served the municipalities of Baltimore, MD and Waterbury, CT before it came into our possession. It is now used as a mobile radio tower for our system, as well as hosting other partner groups at events.
 
+HamTrunk™ and T4 are sponsored by **ARROW: *Amateur Radio Repeaters On Wheels***.
+
 ## 💻 How to program
 
 ### [CLICK HERE FOR PROGRAMMING INSTRUCTIONS](https://github.com/hamtrunk/hamtrunk-subscriber)
