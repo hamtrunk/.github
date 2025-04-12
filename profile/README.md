@@ -14,12 +14,12 @@ HamTrunk™ and T4 are sponsored by **ARROW: *Amateur Radio Repeaters On Wheels*
 Detailed programming instructions, system keys, and sample codeplugs are available for a variety of radios:
 
 - Motorola
-    - ASTRO (ASTRO Saber and XTS 3000)
-    - ASTRO 25 (XTS and XTL 5000/2500/1500)
-    - APX (all APX models)
+    - ASTRO *(ASTRO Saber and XTS 3000)*
+    - ASTRO 25 *(XTS and XTL 5000/2500/1500)*
+    - APX *(all models)*
 - EF Johnson
-    - Legacy models (PCConfigure)
-    - Viking VP and VM (Armada)
+    - Legacy models *(programmed using PCConfigure)*
+    - Viking VP and VM *(programmed using Armada)*
 
 ## 📅 Visit us!
 
