@@ -5,8 +5,6 @@ We're excited to share our **Motorola Type II** trunking system with you: operat
 
 The trunking system is typically installed in/on **T4**, a retired fire truck 🚒 that served the municipalities of Baltimore, MD and Waterbury, CT before it came into our possession. It is now used as a mobile radio tower for our system, as well as hosting other partner groups at events.
 
-We aim to educate amateur radio enthusiasts about trunking technology and setting up repeaters.
-
 ## 💻 How to program
 
 ### [CLICK HERE FOR PROGRAMMING INSTRUCTIONS](https://github.com/hamtrunk/hamtrunk)
@@ -18,7 +16,7 @@ Detailed programming instructions, system keys, and sample codeplugs are availab
     - ASTRO 25 (XTS and XTL 5000/2500/1500)
     - APX (all APX models)
 - EF Johnson
-    - Legacy models (PC Configure)
+    - Legacy models (PCConfigure)
     - Viking VP and VM (Armada)
 
 ## 📅 Visit us!
