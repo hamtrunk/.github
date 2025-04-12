@@ -7,7 +7,7 @@ The trunking system is typically installed in/on **T4**, a retired fire truck ðŸ
 
 ## ðŸ’» How to program
 
-### [CLICK HERE FOR PROGRAMMING INSTRUCTIONS](https://github.com/hamtrunk/hamtrunk)
+### [CLICK HERE FOR PROGRAMMING INSTRUCTIONS](https://github.com/hamtrunk/hamtrunk-subscriber)
 
 Detailed programming instructions, system keys, and sample codeplugs are available for a variety of radios:
 
