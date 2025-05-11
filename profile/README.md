@@ -27,9 +27,8 @@ We will be in attendance at the following upcoming events &ndash; come chat with
 
 | Event             | Dates           | Link                                      |
 |-------------------|-----------------|-------------------------------------------|
-| NEAR-Fest XXXVII  | May 2-3, 2025   | [near-fest.com](https://near-fest.com/)   |
 | Hamvention 2025   | May 16-18, 2025 | [hamvention.org](https://hamvention.org/) |
-| NEAR-Fest XXXVIII | TBD Fall 2025   | [near-fest.com](https://near-fest.com/)   |
+| NEAR-Fest XXXVIII | Oct 3-4, 2025   | [near-fest.com](https://near-fest.com/)   |
 
 ## 🪧 Poster
 
@@ -41,6 +40,7 @@ We attended the following events and had a great time &ndash; hope to see you at
 
 | Event             | Dates           | Media |
 |-------------------|-----------------|-------|
+| NEAR-Fest XXXVII  | May 2-3, 2025   | [Photos](https://www.facebook.com/hamtrunk/posts/pfbid0z5idnyvVa4xKyCHp6ahKH7K7wTV9ACj3kuMk7rqzRunVVGukPuc3XSP57VrLk9QMl) |
 | NEAR-Fest XXXVI   | Oct 4-5 2024    | [Photos](https://www.facebook.com/hamtrunk/posts/pfbid0KYAuF7LHjv1acQ5aw8Z8hNiw2QWUWvXFtA5MRup6YhprfYZM6SEjbXEQPfRUAhVMl) |
 | Hamvention 2024   | May 17-19, 2024 | [Video](https://www.youtube.com/watch?v=_ZwOPZFaW2k) |
 
